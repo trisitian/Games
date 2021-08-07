@@ -15,6 +15,6 @@ class Board:
 
 
 
-
+ 
 
 		#use this for snake colour #FF4C29
